@@ -1,4 +1,4 @@
-# 👋 Salam, I'm Nirma Qureshi!
+# 👋 Hi, I'm Nirma Qureshi!
 ### 🤖 Full-Stack AI Engineer & Agentic Systems Developer
 
 <p align="center">
@@ -62,10 +62,10 @@ Innovative AI Developer with expertise in agentic AI systems, workflow automatio
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirmaQureshi1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Nirma's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmaQureshi1234&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-git-masterrstw-rstwp.vercel.app/api?username=NirmaQureshi1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Nirma's GitHub Stats" width="49%" />
+  
+  <img src="https://github-readme-stats-git-masterrstw-rstwp.vercel.app/api/top-langs/?username=NirmaQureshi1234&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
-
 ---
 
 ### 🤝 Connect with Me
