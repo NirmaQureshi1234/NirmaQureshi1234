@@ -1,70 +1,72 @@
-# 👋 Salam, I'm Nirma Qureshi! 
-### 🚀 Full-Stack AI Engineer & Agentic Systems Developer
+<div align="center">
 
-<p align="left">
-  <a href="https://nirmaqureshi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Site-pink?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="http://www.linkedin.com/in/nirma-qureshi-28b91a311"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/NQureshi34410"><img src="https://img.shields.io/badge/🐦%20Twitter-Follow-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-</p>
+# NIRMA QURESHI
+### 🧠 Full-Stack AI Engineer | Agentic Systems Developer
+
+<img src="https://komarev.com/ghpvc/?username=NirmaQureshi1234&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
 
 ---
 
-### 👩‍💻 About Me
+I believe in the power of intelligent automation and seamless full-stack systems. You'll find me architecting multi-agent networks, building custom LLM workflows, and creating beautiful, responsive user experiences.
 
-I am an innovative **AI Developer** specializing in building autonomous agentic systems, intelligent workflow automation, and seamless full-stack integrations. From authoring AI-native textbooks to architecting multi-agent recommendation engines, I thrive on turning complex system logic into scalable, real-world solutions.
+[🌐 Portfolio](https://nirmaqureshi-portfolio.vercel.app/) • [💼 LinkedIn](http://www.linkedin.com/in/nirma-qureshi-28b91a311) • [🐦 Twitter/X](https://x.com/NQureshi34410)
 
-- 🎓 **Current Focus:** Advanced Cloud Generative AI Engineering at **GIAIC** (Governor Sindh Initiative).
-- 🧠 **Expertise:** Agentic AI architectures, LLM orchestration, and responsive product design.
-- 🌍 **Location:** Karachi, Pakistan 🇵🇰 (Open to global remote collaborations).
+</div>
 
 ---
 
-### 🛠️ Core Tech Stack
-
-#### 🤖 Artificial Intelligence & Automation
-🤖 **Agentic AI:** OpenAI Agent SDK | AI Workflow Orchestration | Multi-Agent Systems
-💬 **Conversational AI:** LLM Integrations | Prompt Engineering | RAG (Retrieval-Augmented Generation)
-
-#### 💻 Full-Stack Development
-✨ **Frontend:** Next.js | React.js | TypeScript | JavaScript | HTML5 & CSS3 | Tailwind CSS | ShadCN UI
-⚙️ **Backend:** Python | FastAPI | API Architecture & Integrations | Auth & Authorization
-🗄️ **Databases:** Neon DB (PostgreSQL) | SQLModel | MongoDB | MySQL
-📦 **DevOps & CMS:** Docker | Sanity CMS | Spec-Kit Plus
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" width="60%">
+      <br/>
+      
+      ### 👋 Bonjour! 
+      Hi, I'm Nirma, a quiet coder who speaks fluent AI and Full-Stack logic. 💻✨
+      
+      - 🚀 **Currently:** Diving deep into Cloud Applied Generative AI Engineering at **GIAIC**.
+      - 🧠 **Thinking & Creating:** Multi-Agent workflows, RAG apps, and intelligent automation systems.
+      - ⚡ **Passionate About:** Turning complex technical architecture into elegant, scalable software.
+      
+      <br/>
+      
+      ### ⚔️ Weapons (Tech Stack)
+      `Next.js` `React.js` `TypeScript` `JavaScript` `FastAPI` `Python` `Tailwind CSS`
+      
+      <br/>
+      
+      ### ⚡ Superpowers
+      - **AI Orchestration:** OpenAI Agent SDK, Workflow Automation, Prompt Engineering
+      - **Databases:** Neon DB, SQLModel, MongoDB, MySQL
+      - **Architecture:** Systems Thinking, Product R&D, Technical Decision-Making
+    </td>
+    <td valign="top" width="40%" align="right">
+      <img src="https://img.freepik.com/free-vector/lofi-developer-concept-illustration_114360-26466.jpg" width="320px" alt="Coding Aesthetic" style="border-radius: 20px; margin-top: 20px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌟 Featured Deep-Tech Projects
+### 🌟 Deep-Tech Projects
 
 * **📘 Physical AI & Humanoid Robotics Textbook**
-    * Authored and deployed an AI-native textbook utilizing *Docusaurus*, *Spec-Kit Plus*, and *Claude Code*. 
-    * Features an integrated **RAG chatbot**, personalized learning paths, and multilingual support for teaching embodied intelligence.
+  Authored an AI-native textbook featuring an integrated **RAG chatbot**, personalization, and multilingual learning support (*Docusaurus*, *Claude Code*).
 * **🤖 Room Matcher AI**
-    * Led the architecture and deployment of an AI-powered platform using *Next.js*, *Docker*, and *Hugging Face*.
-    * Orchestrated **4 Agentic AI models** working collaboratively for profile ingestion, matching algorithms, and personalized consulting.
-* **🌾 AI-Powered Financial & Agricultural Ecosystem**
-    * Engineered an LLM-driven advisory network providing personalized predictive market, soil, and weather analytics for farmers alongside a robust expense-tracking system.
-* **🚨 Crisis Resource Locator**
-    * Designed an autonomous AI Agent engineered to locate, verify, and seamlessly guide citizens to safety zones during active natural disasters.
+  An AI-powered platform running **4 collaborative Agentic AI models** for profile scanning and automated consulting (*Next.js*, *Docker*, *Hugging Face*).
+* **🌾 Financial & Agricultural Advisory App**
+  An LLM-driven mobile ecosystem providing predictive soil, weather, and market analytics for farmers.
 
 ---
 
-### 📊 My GitHub Insights
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NirmaQureshi1234&show_icons=true&theme=rose&count_private=true&hide_border=true" alt="Nirma's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmaQureshi1234&layout=compact&theme=rose&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmaQureshi1234&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</div>
 
----
+<br/>
 
-### 🤝 Let's Build the Future Together!
-
-I'm always open to discussing cutting-edge AI research, technical architecture, or innovative remote roles. 
-
-* **📧 Email:** nirmaqureshi786@gmail.com
-* **🌐 Portfolio:** [nirmaqureshi-portfolio.vercel.app](https://nirmaqureshi-portfolio.vercel.app/)
-* **📱 Socials:** [LinkedIn](http://www.linkedin.com/in/nirma-qureshi-28b91a311) | [Twitter/X](https://x.com/NQureshi34410) | [Facebook](https://www.facebook.com/profile.php?id=61554627031309)
-
-<p align="center" style="font-size: 11px; color: #888;">
-  Optimized with ✨ and system-thinking structure.
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NirmaQureshi1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Nirma's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirmaQureshi1234&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+</div>
