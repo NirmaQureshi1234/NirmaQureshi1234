@@ -53,21 +53,6 @@ Innovative AI Developer with expertise in agentic AI systems, workflow automatio
 * **✅ AI Todo App**
   Developed a full-stack AI-powered Todo application with Next.js, Docker, and agentic AI for smart task management.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NirmaQureshi1234&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstw-rstwp.vercel.app/api?username=NirmaQureshi1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Nirma's GitHub Stats" width="49%" />
-  
-  <img src="https://github-readme-stats-git-masterrstw-rstwp.vercel.app/api/top-langs/?username=NirmaQureshi1234&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-</p>
----
-
 ### 🤝 Connect with Me
 
 * **📧 Email:** nirmaqureshi786@gmail.com
