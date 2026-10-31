@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nirmaqureshi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-ff69b4?style=for-the-badge" /></a>
+  <a href="https://nirmaqureshi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-ff69b4?style=for-the-badge" /></a>
   <a href="http://www.linkedin.com/in/nirma-qureshi-28b91a311"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge" /></a>
   <a href="https://x.com/NQureshi34410"><img src="https://img.shields.io/badge/🐦%20Twitter-Follow-black?style=for-the-badge" /></a>
 </p>
