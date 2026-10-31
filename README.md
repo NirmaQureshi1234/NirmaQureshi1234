@@ -1,6 +1,3 @@
-# 👋 Hi, I'm Nirma Qureshi!
-### 🤖 Full-Stack AI Software Engineer & Agentic Systems Developer
-
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="Nirma Qureshi Banner" style="border-radius: 12px;"/>
 </p>
