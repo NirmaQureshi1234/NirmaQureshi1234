@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nirma Qureshi!
-### 🤖 Full-Stack AI Engineer & Agentic Systems Developer
+### 🤖 Full-Stack AI Software Engineer & Agentic Systems Developer
 
 <p align="center">
   <img src="https://img.freepik.com/free-vector/lofi-developer-concept-illustration_114360-26466.jpg" width="400px" alt="Nirma Coding Aesthetic" style="border-radius: 20px;"/>
@@ -71,5 +71,5 @@ Innovative AI Developer with expertise in agentic AI systems, workflow automatio
 ### 🤝 Connect with Me
 
 * **📧 Email:** nirmaqureshi786@gmail.com
-* **🌐 Portfolio:** [nirmaqureshi-portfolio.vercel.app](https://nirmaqureshi-portfolio.vercel.app/)
+* **🌐 Portfolio:** [nirmaqureshi.vercel.app](https://nirmaqureshi.vercel.app/)
 * **📱 Socials:** [LinkedIn](http://www.linkedin.com/in/nirma-qureshi-28b91a311) | [Twitter/X](https://x.com/NQureshi34410) | [Facebook](https://www.facebook.com/profile.php?id=61554627031309)
