@@ -24,13 +24,27 @@ HI! Nirma here 👋🏻 Full-Stack Agentic AI Developer. 🔮 Engineering intell
 
 ---
 
-### 🛠️ Core Tech Stack
+### 🛠️ Weapons (Tech Stack)
 
-- **🤖 AI & Workflow Automation:** OpenAI Agent SDK, AI Workflow Orchestration, Conversational AI, Chatbot Integrations, Prompt Engineering, AI-driven Product Architecture.
-- **✨ Frontend:** Next.js, React.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Sanity CMS, Responsive UI/UX Design.
-- **⚙️ Backend:** FastAPI, Python, Authentication & Authorization, API Architecture & Integrations, Error Handling.
-- **🗄️ Databases:** SQLModel, Neon DB, MongoDB, MySql.
-- **💼 Product & Leadership:** Product R&D, Technical Decision-Making, Team Collaboration, Architecture Planning.
+- **🤖 AI & Workflow Automation:** 
+  <img src="https://img.shields.io/badge/OpenAI_Agent_SDK-27272a?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-27272a?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-27272a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-27272a?style=flat-square" />
+
+- **✨ Frontend Engineering:** 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-27272a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-27272a?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-27272a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Sanity_CMS-27272a?style=flat-square&logo=sanity&logoColor=F03E2F" />
+
+- **⚡ Backend & Databases:** 
+  <img src="https://img.shields.io/badge/FastAPI-27272a?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Python-27272a?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Node.js-27272a?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/PostgreSQL-27272a?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Docker-27272a?style=flat-square&logo=docker&logoColor=2496ED" />
 
 ---
 
