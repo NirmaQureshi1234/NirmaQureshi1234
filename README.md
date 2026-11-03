@@ -16,7 +16,8 @@
 Hey! I'm Nirma 👋🏻 AI Software Engineer & Full-Stack Agentic Developer. 
 Building production-grade multi-agent systems and scalable Web Apps 🛠️ Code • Scale • Innovate for global teams. 
 
-- 🎓 **Current Role:** Faculty & Coordinator at **GIAIC** | Software Engineering Manager at **Technova**.
+- 🎓 **Current Role:** Full-Stack Agentic AI Developer at **Zodio** | Faculty & Coordinator at **GIAIC** | Software Engineering Manager at **Technova**.
+- 🏆 **Global Recognition:** Ranked in the Top 15% globally in the International Quant Championship 2026 hosted by WorldQuant BRAIN.
 - 🌍 **Based in:** Karachi, Pakistan 🇵🇰
 
 ---
