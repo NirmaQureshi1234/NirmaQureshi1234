@@ -1,3 +1,10 @@
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/solar-orbits?username=nirmaqureshi1234&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170256337%3Fu%3D833a34e0de1f550df853fcb70b5ad6182aec3839%26v%3D4&mode=light" />
+  <img src="https://www.gitskins.com/api/section/solar-orbits?username=nirmaqureshi1234&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F170256337%3Fu%3D833a34e0de1f550df853fcb70b5ad6182aec3839%26v%3D4&mode=dark" width="100%" alt="My languages as planets around me" />
+</picture>
+
+<sub>Solar System · planets are languages, comets are recent pushes · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="Nirma Qureshi Banner" style="border-radius: 12px;"/>
 </p>
